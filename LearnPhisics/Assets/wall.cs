@@ -17,4 +17,6 @@ public class wall : MonoBehaviour
     {
         R.velocity = new Vector3(0, 0, -speed);
     }
+
+
 }

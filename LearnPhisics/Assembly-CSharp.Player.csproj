@@ -612,6 +612,7 @@
   <ItemGroup>
     <Compile Include="Assets\mycube.cs" />
     <Compile Include="Assets\physicalforce.cs" />
+    <Compile Include="Assets\spawn.cs" />
     <Compile Include="Assets\wall.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
