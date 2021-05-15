@@ -64,6 +64,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\del.cs" />
+    <Compile Include="Assets\gun.cs" />
+    <Compile Include="Assets\movecamira.cs" />
     <Compile Include="Assets\mycube.cs" />
     <Compile Include="Assets\physicalforce.cs" />
     <Compile Include="Assets\spawn.cs" />
